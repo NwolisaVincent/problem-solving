@@ -9,3 +9,4 @@
 ### So there's a party happening from 6pm to 12am, and so many celebrities are coming for that party, some would stay for an hour, some two hours and some three hours and so on, and you're a photographer, you must come for that party when most celebrities would be around to snap pictures with them, you have a special card that let's you come for that party and stay for just an hour!
 ### We are asked to write a program that picks the hour in which most celebrities would be around so you can take pictures with them.
 ### *(You're given a list of celebrities and the time they're coming)*
+---
